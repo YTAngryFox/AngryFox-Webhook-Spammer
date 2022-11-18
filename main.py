@@ -24,6 +24,7 @@ print(Colorate.Horizontal(Colors.blue_to_green, "               ▄███▄ 
 print("")
 
 print(Colorate.Diagonal(Colors.blue_to_green, "                                                  Made by AngryFoxYT"))
+print(Colorate.Diagonal(Colors.blue_to_green, "                                                Discord Webhook Spammer"))
 
 print("")
 
@@ -46,6 +47,7 @@ print(Colorate.Horizontal(Colors.blue_to_green, "               ▄███▄ 
 print("")
 
 print(Colorate.Diagonal(Colors.blue_to_green, "                                                  Made by AngryFoxYT"))
+print(Colorate.Diagonal(Colors.blue_to_green, "                                                Discord Webhook Spammer"))
 
 print("")
 
@@ -68,6 +70,7 @@ print(Colorate.Horizontal(Colors.blue_to_green, "               ▄███▄ 
 print("")
 
 print(Colorate.Diagonal(Colors.blue_to_green, "                                                  Made by AngryFoxYT"))
+print(Colorate.Diagonal(Colors.blue_to_green, "                                                Discord Webhook Spammer"))
 
 def spamwebhook():
     try:

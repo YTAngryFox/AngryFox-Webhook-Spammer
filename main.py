@@ -79,7 +79,6 @@ def spamwebhook():
         while True:
             webhook = DiscordWebhook(url=webhookurl, content=msg)
             webhook.execute()
-            wait(0.2)
     except:
         print(Colorate.Diagonal(Colors.blue_to_green, "Error! The webhook doesnt exist!"))
         print(Colorate.Diagonal(Colors.blue_to_green, "Press enter to continue"))
